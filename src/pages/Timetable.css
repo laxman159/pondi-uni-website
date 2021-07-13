@@ -1,0 +1,14 @@
+.timetable {
+  width: 100%;
+}
+
+.timetable .ttinfo h3 {
+  width: 100%;
+  text-align: center;
+}
+
+.timetable .timeexam {
+  display: flex;
+
+  justify-content: center;
+}

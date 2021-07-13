@@ -1,0 +1,86 @@
+.osmain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.osmain h1 {
+  margin-left: 10px;
+  color: red;
+  letter-spacing: 5px;
+}
+
+.osmain span {
+  margin-left: 10px;
+}
+
+.osmain .qpattern {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: auto;
+  padding: 10px;
+}
+
+hr {
+  width: 90%;
+}
+
+.osmain .qpatternpdf {
+  height: auto;
+}
+
+.osmain .ba {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.osmain .cpu {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.osmain .pra {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.osmain .disk {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 100px;
+}
+
+.row {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+.row h4 {
+  margin-left: 20px;
+}
+
+.row h4 a {
+  text-decoration: underline;
+  color: red;
+}
+.exercise {
+  padding: 10px;
+}
+
+.exercise h4 a {
+  text-decoration: underline;
+  color: red;
+}
